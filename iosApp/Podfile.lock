@@ -1,0 +1,23 @@
+PODS:
+  - composeApp (1.0.0):
+    - youtube-ios-player-helper
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - composeApp (from `../composeApp`)
+
+SPEC REPOS:
+  trunk:
+    - youtube-ios-player-helper
+
+EXTERNAL SOURCES:
+  composeApp:
+    :path: "../composeApp"
+
+SPEC CHECKSUMS:
+  composeApp: f74f7ddf8b7e2453aaf1f4bf3febfd09185f704c
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: 3313a530e4ca4361dd2a9b97cf3c536967731c31
+
+COCOAPODS: 1.12.1
